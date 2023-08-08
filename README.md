@@ -1,2 +1,2 @@
 # SEII-MateusOliveiraCosta
-Atividades de Sistemas Embarcados II
+Atividades de Sistemas Embarcados II - UFU
